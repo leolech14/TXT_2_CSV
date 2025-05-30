@@ -1,0 +1,694 @@
+____	PC -00
+s =	LEONARDO BROCKSTEDT LECH
+Z =	DOLOMITI 781
+5^=	101-Planalto
+99250-000 Serafina Correa - RS
+040525
+Postagem: 04/05/2025
+Vencimento: 10/05/2025
+Emissão: 03/05/2025
+Previsão prox. Fechamento: 03/06/2025
+Resumo da fatura em R$
+G	Total da fatura anterior	9.232,62
+	Pagamentos efetuados	-21.732,62
+O	Saldo financiado	-12.500,00
+G	Lançamentos atuais	33.360,60
+s	Total desta fatura	20.860,60
+Titular LEONARDO BROCKSTEDT LECH
+Cartão 5234.XXXX.XXXX.6853 MASTERCARD BLACK
+O total da sua fatura é:	Com vencimento em:	Limite total de crédito:
+R$ 20.860,60	10/05/2025	R$29.950,00
+Preparamos outras opções de pagamento abaixo e ao final da fatura, válidas até a data de vencimento:
+Pagamento mínimo:
+R$1.043,05
+	Valorem reais	% do total financiado
+Valor total financiado	R$ 19.817,55	100,00%
+Encargos	R$ 2.150,20	-
+IOF	R$ 130,59	-
+Total a pagar	R$ 23.141,39	-
+Juros: 10,85 % am - 250,17 % aa CET: 11,48 % am - 275,01 % aa
+Parcelas fixas: R$2.492,25 +	lOx R$ 2.492,25	
+	Valorem reais	% do total financiado
+Valor total financiado	R$ 21.220,67	100,00%
+Valor solicitado	R$ 20.860,60	98,30 %
+IOF	R$ 360,07	1,70%
+Total a pagar	R$27.414,75	-
+Juros: 5,45 % am - 90,72 % aa	CET: 6,37 % am -111,98 % aa	
+Personnalitê
+Banco Itaú S.A. 341-7 34191.75066 69406.102520 50434.570003 4 00000000000000
+Número do Documento 00406694061/0141995
+Nome do Pagador/CPF/CNPJ LEONARDO BROCKSTEDT LECH - 024.244.030-40
+Nome do Beneficiário/CPF/CNPJ ITAU UNIBANCO HOLDING S.A. - 60.872.504/0001 -23
+Endereço do Beneficiário PÇA ALFREDO EGYDIO DE S.ARANHA, 100, TOS 7 A, JABAQUARA - SÃO PAULO - SP
+recibo do pagador
+175/06694061-0
+R$ 20.860,60
+10/05/2025
+Autenticação Mecânica
+Nosso Número
+Valor do Documento
+Vencimento
+Banco Itaú S.A. 341 -7	34191.75066 69406.102520 50434.570003 4 00000000000000
+Local de Pagamento Pague sua fatura em qualquer banco, mesmo após a data de vencimento. Dê preferência para o pagamento até a data de vencimento para não gerar encargos e/ou rescisão contratual. Em caso de atraso, os encargos serão cobrados na próxima fatura.				Data de Vencimento 10/05/2025
+Nome do Beneficiário/ CNPJ/CPF/Endereço ITAU UNIBANCO HOLDING S.A. - 60.872.504/0001 -23 PÇA ALFREDO EGYDIO DE S.ARANHA, 100, TOS 7 A, JABAQUARA - SÃO PAULO - SP				Agência / Código Beneficiário 2525/04345-7
+Data do Documento 10/05/2025	Número do Documento 00406694061/0141995	Espécie DOC.	Aceite FT	N	Data do Processamento 03/05/2025	Nosso Número 175/06694061-0
+Uso do Banco	Carteira	Espécie 5/0	R$	Quantidade	Valor	(=) Valor do Documento R$ 20.860,60
+Instruções de responsabilidade do beneficiário. Indique o valor que deseja pagar no campo "Valor Pago". Dê preferência ao pagamento total. Não sendo possível, você terá as seguintes opções: (i) pagar quantia a partir do valor constante em Pagamento Mínimo, financiando o restante pelo crédito rotativo; (ii) optar por uma das opções de Parcelas Fixas, pagando o valor exato da parcela até a data do vencimento. O não pagamento poderá gerar inscrição nos órgãos restritivos de crédito.				(-) Descontos / Abatimentos (+) Juros/Multa (=) Valor Pago
+Nome do Pagador/CPF/CNPJ/Endereço/Cidade/UF/CEP
+LEONARDO BROCKSTEDT LECH - 024.244.030-40
+DOLOMITI 781 -101 - Planalto - 99250-000 Serafina Correa - RS -
+Sacador Avalista:
+Autenticação Mecânica - Ficha de Compensação
+Pagamentos efetuados_______________________
+DATA VALOR EM R$
+10/04	PAGAMENTO EFETUADO 7117	-9.232,62
+15/04	PAGAMENTO EFETUADO 7117	-3.000,00
+16/04 PAGAMENTO EFETUADO 7117	- 4.000,00
+22/04 PAGAMENTO EFETUADO 7117	- 3.000,00
+22/04	PAGAMENTO EFETUADO 7117	-500,00
+28/04	PAGAMENTO EFETUADO 7117	-1.500,00
+02/05	PAGAMENTO EFETUADO 7117- 500,00
+Total dos pagamentos-21.732,62
+Lançamentos: compras e saques______________
+LEONARDO B LECH (final 6853)_______________
+DATA ESTABELECIMENTO_______________VALOR EM R$
+>16/10	STREET WEAR COMPAN07/10	65,97
+_______VESTUÁRIO .MARAU	
+>19/10	STREET WEAR COMPAN07/10_49,99
+_______VESTUÁRIO .MARAU	
+>13/11	FARMACIA SAO JOAO 06/06_44,78
+_______SAÚDE .PASSO FUNDO	
+>24/11	FARMACIA SAO JOAO 06/06_22,65
+_______SAÚDE .PASSO FUNDO	
+>02/12	FARMACIA SAO JOAO 06/06_20,39
+_______SAÚDE .PASSO FUNDO	
+>05/12	FARMACIA SAO JOAO 05/05_20,07
+_______SAÚDE .PASSO FUNDO	
+>07/12	FARMACIA SAO JOAO 05/05_22,78
+______SAÚDE .PASSO FUNDO	
+20/12	Manual Saude 05/06______99,12
+_______SAÚDE .BARUERI______________________
+>21/12 297BFPFUN 05/10_____________________137,97
+_______VESTUÁRIO .PASSO FUNDO______________
+>26/12 FARMACIA SAO JOAO 05/05_____________59,41
+SAÚDE .SOLEDADE
+Lançamentos: compras e saques_____________________
+@04/01 FARMACIA SAO JOAO 04/06	23,62
+________SAÚDE .PASSO FUNDO________________________
+@04/01 FARMACIA SAO JOAO 04/04	22,49
+________SAÚDE .PASSO FUNDO________________________
+011/01 FARMACIA SAO JOAO 04/06	39,51
+________SAÚDE .PASSO FUNDO________________________
+013/01 FARMACIA SAO JOAO 04/06	113,67
+________SAÚDE .PASSO FUNDO________________________
+020/01 FARMACIA SAO JOAO 04/06	90,66
+________SAÚDE .PASSO FUNDO________________________
+022/01 PERFECT HEALTH 04/04	120,25
+________ALIMENTAÇÃO .PASSO FUNDO__________________
+022/01 FARMACIA SAO JOAO 04/06	38,34
+________SAÚDE .PASSO FUNDO________________________
+23/01	MP *OCEANDROP 04/06	111,18
+________ALIMENTAÇÃO .Balnerio Cam_________________
+005/02	STREET WEAR COMPAN03/10	74,99
+________VESTUÁRIO .PASSO FUNDO____________________
+006/02	FARMACIA SAO JOAO 03/06	21,29
+________SAÚDE .PASSO FUNDO________________________
+008/02	PANVEL FARMACIAS 03/03	83,88
+________SAÚDE .PASSO FUNDO________________________
+011/02	DLOSS TRACKFIELD P03/06	203,25
+________VESTUÁRIO .PASSO FUNDO____________________
+013/02	BANANA JOE PASSO F03/03	98,26
+________DIVERSOS .PASSO FUNDO_____________________
+018/02	FARMACIA SAO JOAO 03/06	54,25
+________SAÚDE .PASSO FUNDO________________________
+018/02	FARMACIA SAO JOAO 03/06	46,74
+________SAÚDE .PASSO FUNDO________________________
+024/02	PANVEL FARMACIAS 03/03	58,09
+SAÚDE .PASSO FUNDO
+Lançamentos: compras e saques___________________
+§025/02	FARMACIASAOJOAO 03/06	33,12
+_________SAÚDE .PASSO FUNDO	
+§009/03	FARMACIASAOJOAO 02/06___37,19
+_________SAÚDE .PASSO FUNDO	
+§009/03	FARMACIASAOJOAO_________-0,20
+_________SAÚDE .PASSO FUNDO	
+§016/03	FARMACIASAOJOAO 02/06___67,07
+_________SAÚDE .PASSO FUNDO	
+§016/03	FARMACIASAOJOAO_________-0,10
+_________SAÚDE .PASSO FUNDO	
+§017/03	PANVEL FARMACIAS 02/03__44,07
+_________SAÚDE .PASSO FUNDO	
+§017/03	PANVEL FARMACIAS________-0,04
+_________SAÚDE .PASSO FUNDO	
+§020/03	FARMACIASAOJOAO 02/06___65,57
+_________SAÚDE .PASSO FUNDO	
+§020/03	FARMACIASAOJOAO_________-0,10
+_________SAÚDE .PASSO FUNDO	
+§023/03	FARMACIASAOJOAO 02/04___20,86
+_________SAÚDE .PASSO FUNDO	
+§023/03	FARMACIASAOJOAO 02/06___77,66
+_________SAÚDE .PASSO FUNDO	
+§023/03	FARMACIASAOJOAO_________-0,05
+_________SAÚDE .PASSO FUNDO	
+§023/03	FARMACIASAOJOAO_________-0,06
+_________SAÚDE .PASSO FUNDO	
+§030/03	FARMACIASAOJOAO 02/06___94,52
+_________SAÚDE .PASSO FUNDO	
+§030/03	FARMACIASAOJOAO_________-0,25
+_________SAÚDE .PASSO FUNDO	
+§031/03	FARMACIA SAO JOAO 02/06_104,71
+_________SAÚDE .PASSO FUNDO	
+§031/03	FARMACIASAOJOAO_________-0,10
+_________SAÚDE .PASSO FUNDO	
+§004/04	FRUTEIRA CIMAROSTI______7,00
+_______ALIMENTAÇÃO .Soledade	
+04/04	APPLE.COM/BILL__________99,90
+_______HOBBY .SAP PAULO	
+04/04	APPLE.COM/BILL__________-53,28
+_________HOBBY .SAP PAULO	
+§005/04	ViaQualitaExpress_______37,00
+_________ALIMENTAÇÃO .PASSO FUNDO	
+§005/04	LATAM AIRLINES PFB______751,10
+_________TURISMO E ENTRETENIM.PASSO FUNDO	
+§005/04	PARTICIPAÇÕES___________21,85
+_______ALIMENTAÇÃO .SAP PAULO	
+06/04	APPLE.COM/BILL__________69,90
+_________HOBBY .SAP PAULO	
+§011/04	IFD*IFOOD CLUB__________5,95
+_______ALIMENTAÇÃO .Osasco	
+12/04	APPLE.COM/BILL__________277,80
+_______HOBBY .SAP PAULO	
+13/04	APPLE.COM/BILL__________79,90
+_______HOBBY .SAP PAULO	
+13/04	APPLE.COM/BILL__________44,90
+_______HOBBY .SAP PAULO	
+14/04	APPLE.COM/BILL__________44,90
+_______HOBBY .SAP PAULO	
+15/04	APPLE.COM/BILL	259,80
+_______HOBBY .SAP PAULO	
+15/04	APPLE.COM/BILL	399,90
+_______HOBBY .SAP PAULO	
+16/04	APPLE.COM/BILL	399,90
+_______HOBBY .SAP PAULO	
+16/04	APPLE.COM/BILL__________54,90
+_______HOBBY .SAP PAULO	
+16/04	APPLE.COM/BILL__________44,90
+_______HOBBY .SAP PAULO	
+16/04	APPLE.COM/BILL__________224,90
+_______HOBBY .SAP PAULO	
+16/04	APPLE.COM/BILL__________74,80
+HOBBY .SAP PAULO
+Lançamentos: compras e saques_____________________
+® 18/04 STAR 84 GRUPRACATE	24,90
+_________ALIMENTAÇÃO .GUARULHOS_____________________
+® 18/04 FARMACIA SAO JOAO 01/06_____________________99,98
+_________SAÚDE._____________________________________
+® 18/04 CASA BASICA COMERCIO D______________________239,80
+_________VESTUÁRIO .SA.O PAULO	
+® 18/04	AEROMATE 1 LANCHES______22,00
+_________ALIMENTAÇÃO .GUARULHOS	
+$018/04	PARTICIPAÇÕES___________21,00
+_________ALIMENTAÇÃO .SAO PAULO	
+$018/04	PARTICIPAÇÕES___________12,00
+_________ALIMENTAÇÃO .SAO PAULO	
+$018/04	PARTICIPAÇÕES___________88,14
+_______ALIMENTAÇÃO .SAO PAULO	
+19/04	APPLE.COM/BILL__________999,90
+_________HOBBY .SAO PAULO	
+$019/04	IFD*MISO DELIVERY LTDA__53,00
+_________VEÍCULOS .PASSO FUNDO	
+$019/04	IFD*RAFAEL FAGUNDES LT__45,41
+_________ALIMENTAÇÃO .PASSO FUNDO	
+$019/04	REFUGIO SKATE PARK______11,00
+_________ALIMENTAÇÃO .PASSO FUNDO	
+$019/04	IFD*POKE DO ADAO LTDA___87,79
+_________ALIMENTAÇÃO .PASSO FUNDO	
+$020/04	FARMACIA SAO JOAO 01/06_20,89
+_________SAÚDE.	
+$020/04	IFD*36.244.793 AUGUSTO__40,99
+_________ALIMENTAÇÃO .PASSO FUNDO	
+$020/04	IFD*SANDRA MARIA GOSCH__54,90
+_________ALIMENTAÇÃO .PASSO FUNDO___________________
+$021/04	IFD*RAFAEL FAGUNDES LT	107,52
+_________ALIMENTAÇÃO .PASSO FUNDO___________________
+$022/04	ATTIVO MEDICAMENTO01 /06	107,23
+_________SAÚDE._____________________________________
+$022/04 PANVEL FARMACIAS____________________________4,99
+_________SAÚDE .PASSO FUNDO_________________________
+$022/04 FARMACIA SAO JOAO 01/06_____________________126,73
+_________SAÚDE.	
+$022/04	IFD*MISO DELIVERY LTDA__53,00
+_________VEÍCULOS .PASSO FUNDO	
+$023/04	IFD*36.244.793 AUGUSTO__40,99
+_________ALIMENTAÇÃO .PASSO FUNDO	
+$024/04	SUPERMERCADO BOQUEIRÃO__85,83
+_______ALIMENTAÇÃO .PASSO FUNDO	
+25/04	APPLE.COM/BILL__________27,90
+_______HOBBY .SAO PAULO	
+25/04	APPLE.COM/BILL__________49,90
+_________HOBBY .SAO PAULO	
+$026/04	NovaEraComercioDe_______3,98
+_________VEÍCULOS TIO HUGO	
+$026/04	POSTO ROSINHA___________32,30
+_________DIVERSOS TAQUARI	
+$026/04	CAMILA THREMEL DA SILV__14,00
+_________ALIMENTAÇÃO .PORTO ALEGRE	
+$026/04	MEP*WP GASTRONOMIA______6,00
+_________ALIMENTAÇÃO .Porto Alegre	
+$027/04	SIM SCUDERIA VELOPARK___15,97
+_________VEÍCULOS .NOVA SANTA RI	
+$027/04	RESTAURANTE CAIN AN_____9,00
+_________ALIMENTAÇÃO .SAO JOSE DO H	
+$029/04	IFD*COMERCIO DE MEDICA__69,68
+_________SAÚDE .PASSO FUNDO	
+$002/05	FARMACIA SAO JOAO 01/06_82,35
+_______SAÚDE._____________________________________
+Lançamentos no cartão (final 6853)7.792,56
+LEONARDO B LECH (final 9779)______________________
+DATA ESTABELECIMENTO___________________VALOR EM R$
+Z) 16/06 RECARGAPAY *LEONA11/12	18,28
+_________DIVERSOS .SAO PAULO	
+Z) 16/06 RECARGAPAY *LEONA11/12	11,08
+DIVERSOS .SAO PAULO
+Lançamentos: compras e saques_____________________
+@ 16/06	RECARGAPAY	*LEONA11 /12	40,44
+_______DIVERSOS .SAP PAULO________________________
+@ 16/06	RECARGAPAY	*LEONA11/12	12,74
+_______DIVERSOS .SAP PAULO________________________
+@16/06	RECARGAPAY	*LEONA11/12	20,50
+_______DIVERSOS .SAP PAULO________________________
+@16/06	RECARGAPAY	*LEONA11/12	21,61
+_______DIVERSOS .SAP PAULO________________________
+@ 16/06	RECARGAPAY	*LEONAl 1 /12	60,94
+_______DIVERSOS .SAP PAULO________________________
+@16/06	RECARGAPAY	*LEONA11/12	13,30
+______DIVERSOS	.SAP PAULO_______________________
+@16/06	RECARGAPAY	*LEONA11/12	14,96
+______DIVERSOS	.SAP PAULO_______________________
+@16/06	RECARGAPAY	*LEONA11/12	11,63
+______DIVERSOS	.SAP PAULO_______________________
+Lançamentos no cartão (final 9779)225,48
+LEONARDO B LECH (final 9835)______________________
+DATA ESTABELECIMENTO____________________VALOR EM R$
+@17/06 PICPAYLBL INTEGRA11/12	11,59
+_______DIVERSOS .S o Paulo________________________
+@17/06 PICPAYLBL INTEGRA11/12	46,13
+_______DIVERSOS .S o Paulo________________________
+Lançamentos no cartão (final 9835)57,72
+LEONARDO B LECH (final 3549)______________________
+DATA ESTABELECIMENTO____________________VALOR EM R$
+@27/11	MP*OCEANDROP 06/06	64,70
+_______ALIMENTAÇÃO .Balnerio Cam__________________
+@05/01	MERCADOLIVRE*MERCA04/10	67,11
+_______TURISMO E ENTRETENIM.Osasco________________
+@06/01 DM *TEMU 04/06	65,88
+_______DIVERSOS .Dublin___________________________
+@23/01	ESSENTIAL NUTRITI004/06	155,35
+_______SaoJose____________________________________
+@06/02 FPay*DOM5Neres 03/03	132,34
+_______EDUCAÇÃO .Balneario Cam____________________
+@10/03	MERCADOLIVRE*LOJUR02/02	225,73
+_______DIVERSOS .Osasco___________________________
+@10/03	MERCADOLIVRE*LOJURESC	-0,01
+_______DIVERSOS .Osasco___________________________
+@17/03	MP*BECLOT 02/02	94,70
+_______VESTUÁRIO .So Paulo________________________
+@17/03	MP*BECLOT	-0,01
+_______VESTUÁRIO .So Paulo________________________
+@04/04	SUPERFORCE PASSO FUND	297,00
+_______HOBBY .PASSO FUNDO_________________________
+@05/04	99APP *99App	17,93
+_______VEÍCULOS .Sao Paulo________________________
+@06/04	ESSENTIAL NUTRITIO01/06	36,00
+@12/04	AIRBNB * HMTZDQ9SXE	2.413,42
+_______TURISMO E ENTRETENIM.SAO PAULO_____________
+@15/04	Disney Plus	43,90
+_______DIVERSOS .SAP PAULO________________________
+@19/04	MERCADOLIVRE*MERCA01/03	50,17
+_______TURISMO E ENTRETENIM.______________________
+@20/04	MERCADO*TASSCOMPONENT	54,70
+_______VESTUÁRIO .BIRIGUI_________________________
+@23/04	NETFLIX.COM	20,90
+_______DIVERSOS .SAP PAULO________________________
+@01/05	BMB*SEANETRS	150,00
+_______DIVERSOS .CARAZINHO________________________
+@01/05	APPLE.COM/BILL	27,90
+_______HOBBY .SAP PAULO___________________________
+Lançamentos no cartão (final 3549)3.917,71
+Lançamentos internacionais________________________
+LEONARDO B LECH (final 6853)______________________
+DATA ESTABELECIMENTO US$R$
+Lançamentos internacionais_________________________________
+$006/04 Selecta Deutschland Gm	34,82
+Kelsterbach 5,00 EUR	5,68
+____________Dólar de Conversão R$ 6,13_______________________
+$006/04 Autohof Frankfurt____________________________________29,24
+Frankfurt	4,20 EUR	4,77
+____________Dólar de Conversão R$ 6,13_______________________
+$006/04 Selecta Deutschland Gm_______________________________34,82
+Kelsterbach 5,00 EUR	5,68
+____________Dólar de Conversão R$ 6,13_______________________
+$006/04 Selecta Deutschland Gm_______________________________34,82
+Kelsterbach 5,00 EUR	5,68
+____________Dólar de Conversão R$ 6,13_______________________
+$007/04 SumUp *Servizio TAXI_________________________________389,44
+Roma	55,00 EUR 62,41
+____________Dólar de Conversão R$ 6,24_______________________
+$007/04 FARMATRAIANO_________________________________________95,60
+ROMA	13,50 EUR 15,32
+____________Dólar de Conversão R$ 6,24	
+$007/04 BIGLIETTERIA MUSEI CAP	123,93
+ROMA	17,50 EUR 19,86
+____________Dólar de Conversão R$ 6,24	
+$007/04 GRUPPO PLANETS.R.L.S.	439,67
+ROMA	62,50 EUR 70,46
+____________Dólar de Conversão R$ 6,24_______________________
+$007/04 EXCHANGE EDICOLA SOUVE_______________________________28,27
+ROMA	4,00 EUR	4,53
+____________Dólar de Conversão R$ 6,24_______________________
+$007/04 ISLAM NAZRUL_________________________________________63,71
+ROMA	9,00 EUR 10,21
+____________Dólar de Conversão R$ 6,24	
+$007/04 RISTORANTE ILGLADIATO	141,59
+ROMA	20,00 EUR 22,69
+____________Dólar de Conversão R$ 6,24	
+$008/04 FARMACIA DEL SENATO	141,34
+ROMA	19,93 EUR 22,47
+____________Dólar de Conversão R$ 6,29	
+$008/04 FARMATRAIANO	134,73
+ROMA	19,00 EUR 21,42
+_________Dólar de Conversão R$ 6,29________________________
+08/04 SPRED	62,84
++1844211-8832	9,99 USD	9,99
+____________Dólar de Conversão R$ 6,29	
+$008/04 GUSTO 2004 SRL	229,52
+ROMA	32,50 EUR 36,49
+____________Dólar de Conversão R$ 6,29	
+$008/04 TRENITALIA - LEFRECCE	723,29
+ROMA	102,00 EUR 114,99
+____________Dólar de Conversão R$ 6,29	
+$008/04 RAVIOLO D'ORO	78,00
+ROMA	11,00 EUR 12,40
+____________Dólar de Conversão R$ 6,29	
+$008/04 LIBRERIA ANTIQUARIA CA	354,57
+ROMA	50,00 EUR 56,37
+____________Dólar de Conversão R$ 6,29	
+$008/04 SOUVENIR SHOP	14,15
+ROMA	2,00 EUR	2,25
+____________Dólar de Conversão R$ 6,29	
+$009/04 HOTEL MANAGEMENT SRL	216,90
+ROMA	30,00 EUR 33,68
+____________Dólar de Conversão R$ 6,44	
+$009/04 BELLITO SERAFINA	107,74
+ROMA	14,90 EUR 16,73
+____________Dólar de Conversão R$ 6,44	
+$009/04 RISTORANTE CASA MARIA	198,87
+ROMA	27,50 EUR 30,88
+____________Dólar de Conversão R$ 6,44_______________________
+$009/04 BUFFET ROMA TERMINI__________________________________23,18
+ROMA	3,20 EUR	3,60
+____________Dólar de Conversão R$ 6,44_______________________
+$010/04 SumUp *BOTISRL_______________________________________56,12
+Milano	7,90 EUR	8,95
+Dólar de Conversão R$ 6,27
+Lançamentos internacionais_______________________________
+<911/04 CAFFE PEDROCCHI PLATEA	78,56
+PADOVA	11,00 EUR 12,57
+___________Dólar de Conversão R$ 6,25_______________________
+$011/04 FOOD TIME Dl JI XIAOXI______________________________34,25
+PADOVA	4,80 EUR	5,48
+___________Dólar de Conversão R$ 6,25_______________________
+$012/04 ANTICA FARMACIA AL MON______________________________60,31
+VENEZIA	8,25 EUR	9,65
+___________Dólar de Conversão R$ 6,25	
+$013/04 COMUNE Dl PADOVA	248,38
+PADOVA	34,00 EUR 39,74
+___________Dólar de Conversão R$ 6,25	
+$013/04 ITALIARAIL.COM	1.381,25
+8773757245	221,00 USD 221,00
+___________Dólar de Conversão R$ 6,25	
+$014/04 Uniqlo Termini	732,41
+Roma	100,90 EUR 117,94
+___________Dólar de Conversão R$ 6,21	
+$014/04 SorbilloSSP Roma Term	131,78
+Roma	18,15 EUR 21,22
+___________Dólar de Conversão R$ 6,21	
+$014/04 GELATERIA DEL PANTHEON	215,86
+ROMA	30,00 EUR 34,76
+___________Dólar de Conversão R$ 6,21	
+$014/04 DITTA POLZELLA MIRIAM	87,13
+ROMA	12,00 EUR 14,03
+___________Dólar de Conversão R$ 6,21	
+$014/04 SUPERMERCATO CARREFOUR	188,66
+ROMA	25,99 EUR 30,38
+___________Dólar de Conversão R$ 6,21	
+$014/04 COOPERATIVA GRUPPO TA.	106,00
+ROMA	14,60 EUR 17,07
+___________Dólar de Conversão R$ 6,21_______________________
+$014/04 STYLE S.R.L. UNIPERSO.______________________________28,32
+ROMA	3,90 EUR	4,56
+___________Dólar de Conversão R$ 6,21_______________________
+$014/04 CARREFOUR EXPRESS___________________________________47,63
+ROMA	6,56 EUR	7,67
+___________Dólar de Conversão R$ 6,21	
+$015/04 Uniqlo Via dei Corso	2.650,68
+Roma	367,20 EUR 425,47
+___________Dólar de Conversão R$ 6,23	
+$015/04 Sum*Hype Clothinga - R	1.450,97
+Morlupo	201,00 EUR 232,90
+___________Dólar de Conversão R$ 6,23_______________________
+$015/04 FARMACIA DEL SENATO_________________________________49,84
+ROMA	6,90 EUR	8,00
+___________Dólar de Conversão R$ 6,23_______________________
+$015/04 RISTORANTE DOMIZIANO________________________________378,10
+ROMA	52,51 EUR 60,69
+___________Dólar de Conversão R$ 6,23_______________________
+$015/04 CASA & BOTTEGA S.R.L._______________________________32,46
+ROMA	4,50 EUR	5,21
+___________Dólar de Conversão R$ 6,23	
+$015/04 AS ROMA STORE	397,04
+ROMA	55,00 EUR 63,73
+___________Dólar de Conversão R$ 6,23	
+$015/04 SUEDE	346,51
+ROMA	48,00 EUR 55,62
+___________Dólar de Conversão R$ 6,23	
+$015/04 SUPERMERCATO CARREFOUR	131,08
+ROMA	18,20 EUR 21,04
+___________Dólar de Conversão R$ 6,23	
+$016/04 Uniqlo Via dei Corso	2.404,22
+Roma	334,40 EUR 386,53
+___________Dólar de Conversão R$ 6,22	
+$016/04 ADIDAS ITALY S.P.A.	323,50
+Roma	45,00 EUR 52,01
+___________Dólar de Conversão R$ 6,22_______________________
+$016/04 SumUp *supermarket__________________________________35,95
+roma	5,00 EUR	5,78
+Dólar de Conversão R$ 6,22
+Lançamentos internacionais__________________________
+$016/04 MABI17SRLS	21,52
+ROMA	3,00 EUR	3,46
+__________Dólar de Conversão R$ 6,22	
+$016/04 LARINASCENTE TRITONE 9	1.304,40
+ROMA	1.230,07 BRL 209,71
+__________Dólar de Conversão R$ 6,22___________________
+$016/04 FORNO CERALLI 1920_____________________________25,88
+ROMA	3,60 EUR	4,16
+__________Dólar de Conversão R$ 6,22	
+$016/04 ADIDAS ITALY S.P.A.	721,15
+Roma	100,30 EUR 115,94
+__________Dólar de Conversão R$ 6,22	
+$017/04 AUTOGRILL ITALIA 7206	136,43
+FIUMICINO 18,99 EUR 21,97
+__________Dólar de Conversão R$ 6,21___________________
+$017/04 ACQU.DISTRI B.AUTOMATI_________________________12,92
+SERIATE	1,80 EUR	2,08
+__________Dólar de Conversão R$ 6,21___________________
+$017/04 ACQU.DISTRI B.AUTOMATI_________________________12,92
+SERIATE	1,80 EUR	2,08
+__________Dólar de Conversão R$ 6,21	
+$017/04 RossoPomodoro Aer Fiu	215,49
+FIUMICINO 30,00 EUR 34,70
+__________Dólar de Conversão R$ 6,21	
+$017/04 TAXI ROMA	395,08
+ROMA	55,00 EUR 63,62
+__________Dólar de Conversão R$ 6,21	
+$017/04 T4S01 DL67 ARZABAL MARK	118,05
+MADRID	16,40 EUR 19,01
+__________Dólar de Conversão R$ 6,21___________________
+$017/04 T4S01 DL67 ARZABAL MARK________________________31,67
+MADRID	4,40 EUR	5,10
+_______Dólar de Conversão R$ 6,21___________________
+$017/04 RELAY MOLO A	214,80
+FIUMICINO 29,90 EUR 34,59
+__________Dólar de Conversão R$ 6,21___________________
+$030/04 SUNO INC.______________________________________60,00
+CAMBRIDGE 10,00 USD 10,00
+__________Dólar de Conversão R$ 6,00___________________
+$030/04 POLARIS_07_WF__________________________________5,94
+WILMINGTON 0,99 USD	0,99
+_______Dólar de Conversão R$ 6,00___________________
+Total transações inter, em R$18.574,30
+Repasse de IOF em R$627,75
+Total lançamentos inter, em R$19.202,05
+LEONARDO B LECH (final 3549)________________________
+DATA ESTABELECIMENTO_____________________US$ R$
+@16/04 NEWMINDSTART.COM	236,92
+NEW YORK	32,95 EUR 38,09
+__________Dólar de Conversão R$ 6,22	
+@17/04 SIMPLYDIGITAL	216,73
+i@sdgbill.com 34,90 USD 34,90
+__________Dólar de Conversão R$ 6,21	
+@21/04 OPENAI	62,10
+SAN FRANCISCO 10,00 USD 10,00
+__________Dólar de Conversão R$ 6,21	
+@30/04 OPENAI *CHATGPT SUBSCR	120,00
+SAN FRANCISCO 20,00 USD 20,00
+__________Dólar de Conversão R$ 6,00___________________
+@30/04 OPENAI__________________________________________30,54
+SAN FRANCISCO 5,09 USD	5,09	■
+__________Dólar de Conversão R$ 6,00___________________
+@30/04 NEWMINDSTART.COM________________________________534,00
+NEW YORK	89,00 USD 89,00
+__________Dólar de Conversão R$ 6,00___________________
+@01/05 LOCOFY.AI_______________________________________21,60
+SINGAPORE 3,60 USD	3,60
+__________Dólar de Conversão R$ 6,00	
+@01/05 FIGMA	120,00
+SAN FRANCISCO 20,00 USD 20,00
+Dólar de Conversão R$ 6,00
+Lançamentos internacionais_______________________
+>01/05 ENVATO	198,00
+61383766284	33,00 USD 33,00
+______Dólar de Conversão R$ 6,00	
+>02/05 LOCOFY.AI	64,48
+SINGAPORE 10,80 USD 10,80
+______Dólar de Conversão R$ 5,97_________________
+Total transações inter, em R$1.604,37
+Repasse de IOF em R$54,35
+Total lançamentos inter, em R$1 658,72
+Lançamentos: produtos e serviços_________________
+DATA PRODUTOS/SERVIÇOS VALOR EM R$
+26/11 BOLETO PARCELADO 06/06	34,94
+______Principal (R$ 33,72) + Juros (R$ 1,22)	
+05/01 BOLETO PARCELADO 04/04	258,59
+______Principal (R$ 252,11 ) + Juros (R$ 6,48)___
+Lançamentos produtos e serviços 293,53
+Outros lançamentos_______________________________
+DATA DESCRIÇÃO_________________________VALOR EM R$
+04/04 ACELERADOR DE PONTOS 212,83
+Total de outros lançamentos 212,83
+Total dos lançamentos atuais 33.360,60
+Compras parceladas - próximas faturas____________
+DATA ESTABELECIMENTO VALOR EM R$
+16/06	RECARGAPAY *LEONA12/12	18,28
+16/06	RECARGAPAY *LEONA12/12	11,08
+16/06	RECARGAPAY *LEONA12/12	40,44
+16/06	RECARGAPAY *LEONA12/12	12,74
+16/06	RECARGAPAY *LEONA12/12	20,50
+16/06	RECARGAPAY *LEONA12/12	21,61
+16/06	RECARGAPAY *LEONA12/12	60,94
+16/06	RECARGAPAY *LEONA12/12	13,30
+16/06	RECARGAPAY *LEONA12/12	14,96
+16/06	RECARGAPAY *LEONA12/12	11,63
+17/06	PICPAYLBL INTEGRAI 2/12	11,59
+17/06	PICPAYLBL INTEGRAI2/12	46,13
+16/10	STREET WEAR COMPAN08/10	65,97
+19/10	STREET WEAR COMPAN08/10	49,99
+20/12	Manual Saude 06/06	99,12
+21/12	297BFPFUN 06/10	137,97
+04/01	FARMACIASAOJOAO 05/06	23,62
+05/01	MERCADOLIVRE*MERCA05/10	67,11
+06/01	DM *TEMU 05/06	65,88
+11/01	FARMACIA SAG JOAO 05/06	39,51
+13/01	FARMACIASAOJOAO 05/06	113,67
+20/01	FARMACIA SAO JOAO 05/06	90,66
+22/01	FARMACIA SAO JOAO 05/06	38,34
+23/01	MP *OCEANDROP 05/06	111,18
+23/01	ESSENTIAL NUTRITI005/06	155,35
+05/02	STREET WEAR COMPAN04/10	74,99
+06/02	FARMACIA SAO JOAO 04/06	21,29
+11/02	DLOSS TRACKFIELD P04/06	203,25
+18/02	FARMACIA SAO JOAO 04/06	54,25
+18/02	FARMACIA SAO JOAO 04/06	46,74
+25/02	FARMACIA SAO JOAO 04/06	33,12
+09/03	FARMACIA SAO JOAO 03/06	37,19
+16/03	FARMACIA SAO JOAO 03/06	67,07
+17/03	PANVEL FARMACIAS 03/03	44,07
+20/03	FARMACIA SAO JOAO 03/06	65,57
+23/03	FARMACIA SAO JOAO 03/04	20,86
+23/03	FARMACIA SAO JOAO 03/06	77,66
+30/03	FARMACIA SAO JOAO 03/06	94,52
+31/03	FARMACIA SAO JOAO 03/06	104,71
+06/04	ESSENTIAL NUTRITI002/06	36,00
+18/04	FARMACIA SAO JOAO 02/06	99,98
+19/04	MERCADOLIVRE*MERCA02/03	50,17
+20/04	FARMACIA SAO JOAO 02/06	20,89
+Compras parceladas - próximas faturas__________________
+22/04 ATTIVO MEDICAMENT002/06	107,23
+22/04 FARMACIA SAO JOAO 02/06	126,73
+02/05 FARMACIA SAO JOAO 02/06 82,35
+Próxima fatura 2 810,21
+Demais faturas 6.228,71
+Total vara próximas faturas 9.038,92
+Limites de crédito Valor em R$
+Limite total de crédito	29.950,00
+Limite disponível	23,80
+Limite total utilizado	29.926,20
+Limite máximo para saque no Brasil	1.000,00
+Limite máximo para saque no exterior	7.000,00
+O limite total de crédito é composto pelos limites de saque.
+Esses são os seus limites na data de fechamento dessa fatura. Caso
+queira consultar informações atualizadas sobre o seu limite, consulte
+nossos canais.
+Encargos cobrados nesta fatura_________________________
+Juros do rotativo	10,50 %	0,00
+Juros de mora	1,00 % am	0,00
+Multa por atraso	2,00%	0,00
+IOF de financiamento (0,38 % + 0,00820 % a.d.)0,00
+Fique atento aos encargos para o próximo
+período (10/05 a 09/06)
+Juros Máximos do contrato 10,85 % am	250,17 % aa
+Novo teto de juros do cartão de crédito
+Valor em R$
+Crédito Rotativo / Atraso
+Limite máximo de juros:	R$0,00
+Juros e encargos financeiros até o momento:	R$ 0,00
+% sobre o limite máximo de juros:	0,00 %
+Os juros e encargos que você irá pagar são os apresentados na
+contratação, e caso ultrapassem o limite máximo, a diferença não será
+cobrada ou será devolvida em fatura. Válido por cada operação de
+parcelamento ou rotativo.
+Simulação de Compras pare, cl juros e
+Crediário (próximo período)
+Limite de crédito	29.950,00
+Juros da compra parcelada	5,99 % am 102,95% aa
+CET da compra parcelada 6,32% am 110,71 % aa
+% do total
+Valor em R$	financiado
+Valor compra	500,00	97,02%
+Valor do IOF	15,34	2,98%
+Valor total financiado	515,34	100,00%
+Valor juros	477,06
+Quantidade de parcelas	24
+Valor da parcela	41,35
+Valor total a pagar___________________992,40_________________
+O valor do IOF compõe o valor financiado e será incluído nas
+parcelas.
+Ao contratar esse produto, você declara que o pagamento dos
+valores devidos não compromete sua renda mínima existencial.
+Simulação Saque Cash
+Limite de saque	1.000,00
+Juros	17,00% am	575,45% aa
+CET 21,23% am 940,33% aa
+% do total
+Valor em R$	financiado
+Valor saque	500,00	99,38%
+Valor do IOF	3,14	0,62%
+Valor total financiado	503,14	100,00%
+Valor juros	85,00
+Valor tarifa	18,00
+Valor total a pagar 606,14
+Demais Taxas de Juros próximo período
+De retirada de recursos país	10,32 % am
+De pagamento de contas 6,99% am 127,51 % aa
+LEONARDO BROCKSTEDT LECH ,
