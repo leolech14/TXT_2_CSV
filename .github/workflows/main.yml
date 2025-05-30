@@ -1,0 +1,38 @@
+name: Converter TXT ➜ CSV
+
+on:
+  push:
+    paths:
+      - '**/*.txt'
+      - 'src/itau_batch_txt2csv.py'
+
+  # ←–– habilita botão “Run workflow” na aba Actions
+  workflow_dispatch:
+    inputs:
+      txt_glob:
+        description: "Quais .txt processar? (glob)"
+        required: false
+        default: "faturas/*.txt"
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with: { python-version: '3.11' }
+
+    - name: Executar parser
+      run: |
+        mkdir -p output
+        python src/itau_batch_txt2csv.py ${{ github.event.inputs.txt_glob }} \
+          > output/run.log 2>&1
+        mv faturas/*_done.csv output/ || true
+
+    - name: Commit artefatos
+      run: |
+        git config user.name  "itau-bot"
+        git config user.email "itau-bot@users.noreply.github.com"
+        git add output/*.csv output/run.log
+        git commit -m "bot: atualiza CSV manual $(date +'%F %T')" || echo "Nada novo"
+        git push
